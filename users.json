@@ -1,0 +1,13 @@
+[
+  {
+    "id": 2,
+    "email": "itskramsavir@email.com",
+    "title": "Mr.",
+    "firstName": "Kram",
+    "lastName": "Savir",
+    "role": "Admin",
+    "createdAt": "2025-03-08T06:04:17.327Z",
+    "updatedAt": "2025-03-08T06:04:17.327Z",
+    "fullName": "Kram Savir"
+  }
+]
